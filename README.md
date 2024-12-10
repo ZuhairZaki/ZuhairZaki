@@ -4,7 +4,7 @@
 - 🎓 **Education:** Bachelor of Science in Computer Science and Engineering (CSE), BUET (Graduated: 2023)
 - 🔭 I’m currently working as a Software Security Engineer [@OpenRefactory-Inc](https://github.com/OpenRefactory-Inc)
 - 🥉 Me and my friends placed third in [National CyberDrill 2022](https://www.cirt.gov.bd/wp-content/uploads/2022/12/Press-Release-NCD-2022.pdf)
-- 👯 I’m broadly interested in collaborating on projects in **Systems and Network Security**
+- 👯 I’m broadly interested in collaborating on projects in **Software Security** as well as **Systems and Network Security**
 
 ## ⚡ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
